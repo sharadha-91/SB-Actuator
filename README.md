@@ -1,10 +1,9 @@
-
 # SB-Actuator
 
-
 Endpoints: 
-http://localhost:8080/actuator/health   - GET  - Custom predefined(Health)
 
+
+http://localhost:8080/actuator/health   - GET  - Custom predefined(Health)
 
 http://localhost:8080/actuator/myend  - GET  - Custom (Userdefined)
 http://localhost:8080/actuator/myend   - DELETE 
