@@ -17,6 +17,7 @@ OR
 http://localhost:8080/actuator/myend?message=sb microservices&status=inactive
 
 
+
 List of EndPoints
 
 Endpoint	Description
@@ -34,3 +35,9 @@ Endpoint	Description
 /actuator/scheduledtasks	Lists scheduled tasks
 /actuator/httptrace	Shows recent HTTP request traces
 /actuator/shutdown	Gracefully shuts down the app (if enabled)
+
+
+
+
+
+
